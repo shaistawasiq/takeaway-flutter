@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="27.5" viewBox="0 0 44 27.5">
+  <g id="credit_card" data-name="credit card" transform="translate(-36 -251.25)">
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="44" height="27.5" rx="6" transform="translate(36 251.25)" fill="#fbf0d9"/>
+    <g id="Ellipse_109" data-name="Ellipse 109" transform="translate(42.417 261.333)" stroke="#000" stroke-width="1" stroke-dasharray="0 0">
+      <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+      <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+    </g>
+    <g id="Ellipse_110" data-name="Ellipse 110" transform="translate(48.833 261.333)" fill="#ffbd2f" stroke="#f2a500" stroke-width="1" stroke-dasharray="0 0">
+      <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+      <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+    </g>
+  </g>
+</svg>

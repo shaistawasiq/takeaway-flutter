@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Payment" transform="translate(-16 -344)">
+    <rect id="Rectangle_63" data-name="Rectangle 63" width="32" height="32" rx="12" transform="translate(16 344)" fill="#fbf0d9"/>
+    <path id="Ellipse_117_Stroke_" data-name="Ellipse 117 (Stroke)" d="M10,20A10,10,0,1,0,0,10,10,10,0,0,0,10,20Z" transform="translate(22 350)"/>
+    <path id="_" data-name="$" d="M3.212,6.574A1.862,1.862,0,0,0,5,4.884C5,4.119,4.479,3.457,3.163,3.2l-.855-.161c-.383-.076-.58-.255-.58-.484C1.729,2.285,2,2,2.554,2c.776,0,.943.442,1,.7L4.921,2.4A2,2,0,0,0,3.212.943V0H2.083V.917A1.928,1.928,0,0,0,.226,2.676C.226,3.482.9,4.06,2,4.289l.874.178c.393.076.609.238.609.484,0,.331-.354.535-.845.535-.845,0-1.238-.442-1.287-.934L0,4.816A2.2,2.2,0,0,0,2.083,6.591V7.5h1.13Z" transform="translate(29.5 356.25)" fill="#ffbd2f"/>
+  </g>
+</svg>

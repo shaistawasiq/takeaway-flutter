@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Info" transform="translate(-16 -424)">
+    <rect id="bg" width="32" height="32" rx="12" transform="translate(16 424)" fill="#fbf0d9"/>
+    <path id="Ellipse_118_Stroke_" data-name="Ellipse 118 (Stroke)" d="M10,20A10,10,0,1,0,0,10,10,10,0,0,0,10,20Z" transform="translate(22 430)"/>
+    <path id="Line_48_Stroke_" data-name="Line 48 (Stroke)" d="M5,2H0V0H5V2Z" transform="translate(32.875 435) rotate(90)"/>
+    <path id="Line_49_Stroke_" data-name="Line 49 (Stroke)" d="M2.5,2H0V0H2.5V2Z" transform="translate(32.875 442.5) rotate(90)" fill="#ffbd2f"/>
+  </g>
+</svg>

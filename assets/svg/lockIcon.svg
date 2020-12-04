@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22">
+  <g id="Group_2" data-name="Group 2" transform="translate(-326 -408)">
+    <path id="Rectangle_5_Stroke_" data-name="Rectangle 5 (Stroke)" d="M0,4A4,4,0,0,1,4,0H16a4,4,0,0,1,4,4v8a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4ZM4,2A2,2,0,0,0,2,4v8a2,2,0,0,0,2,2H16a2,2,0,0,0,2-2V4a2,2,0,0,0-2-2Z" transform="translate(326 414)"/>
+    <path id="Rectangle_6_Stroke_" data-name="Rectangle 6 (Stroke)" d="M0,5A5,5,0,0,1,10,5V8H0ZM5,2A3,3,0,0,0,2,5V6H8V5A3,3,0,0,0,5,2Z" transform="translate(331 408)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="2" cy="2" r="2" transform="translate(334 418)"/>
+  </g>
+</svg>

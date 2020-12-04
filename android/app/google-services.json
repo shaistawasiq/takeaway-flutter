@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243095378177",
+    "firebase_url": "https://foodes-e3ca9.firebaseio.com",
+    "project_id": "foodes-e3ca9",
+    "storage_bucket": "foodes-e3ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243095378177:android:b67b91af849e281d60a300",
+        "android_client_info": {
+          "package_name": "com.bluehorn.foodes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243095378177-67r6epcutlh80psht92enl57g37qe93v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqFujGf2FFlGseDeKxuO6YvxKTNrbwc80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243095378177-67r6epcutlh80psht92enl57g37qe93v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
